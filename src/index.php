@@ -7,8 +7,10 @@
 
 <body>
 
-    <a href="ex-01.php">Exercise 1</a>
-    
+    <form id="boton" action="ex-01.php" method="POST">
+    <button>send</button>
+    </form>
+
 </body>
 
 </html>

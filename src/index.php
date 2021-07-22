@@ -22,7 +22,10 @@
       <button class="btn">Math</button></form>
 
       <form action="ex-05.php">
-      <button class="btn"></button></form>
+      <button class="btn">Function</button></form>
+
+      <form action="ex-06.php">
+      <button class="btn">Formular</button></form>
 
      
 

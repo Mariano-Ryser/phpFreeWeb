@@ -10,7 +10,7 @@ body {
 }
 .nav {
   width: 100%;
-  background-color: #040138;
+  background-color: #403c85;
 }
 
 
@@ -30,7 +30,7 @@ h1 {
 /* BOTON NUMERO 0 */
 
 .btn {background-color: rgb(7, 108, 134);
-    margin-top: 5%;
+    margin-top: 3%;
     height: 100px;
     width: 400px;
     border: solid black 2px;
@@ -39,20 +39,41 @@ h1 {
     cursor: pointer;
     transition: ease-out 0.3s;
     color: rgb(0, 0, 0);
-    
+    animation-name: btna;
+    animation-duration: 3s;
+  }
+  @keyframes btna { from{ color: rosybrown;}
+  to {color:black}
     
   }
+ 
+
   .btn:hover{background-color: rgb(29, 165, 199);
     transition: all 0.2s;
     box-shadow: rgb(206, 186, 186) 3px 3px 70px;
   }
+  .submit {
+    
+    color: black;
+    border-radius: 5%;
+    border: solid 2px black;
+    cursor: pointer;
+    /* transition: background-color 1s; */
+    transition: all 0.3s;
+    
   
+  }
+
+  .submit:hover {
+    background-color: rgb(224, 208, 187);
+    box-shadow: black 3px 3px 10px;
+  }
 
 
 
   .footer {
     width: 100%;
-    height: 30px;
+    height: 100px;
     background-color: #040138;
     color: #d1d1d1;
     text-align: center;

@@ -2,7 +2,7 @@
 
 
 <div class="footer">
-    <p>&copy <?php echo date("Y") ?> </p> 
+    <p>&copy <?php echo date("D-M-Y") ?> </p> 
 
     <form action="index.php">
       <button class="btnf"></button></form>

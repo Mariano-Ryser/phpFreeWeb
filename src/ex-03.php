@@ -73,7 +73,7 @@ foreach ($person as $key => $value) {
     echo '<br>';
 }
 
-
+include("Footer.php")
 
 ?>
 </body>

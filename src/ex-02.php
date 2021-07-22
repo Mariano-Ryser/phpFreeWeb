@@ -56,6 +56,7 @@
     echo $sum . '<br>';
 
     ?>
+    <?php include("Footer.php") ?>
 </body>
 
 </html>

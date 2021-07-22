@@ -44,6 +44,15 @@
             $c = 5 . $d = 7 . $e = 11;
             echo "c + d + e<br>";
             echo "$c + $d + $e<br>";
+
+
+
+
+
+
+
+            
+            include("Footer.php")
         ?>
     </body>
 </html>

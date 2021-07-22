@@ -16,12 +16,9 @@
     echo "\$str = 'Ich heisseeee ' . \$name . '.'" . '<br>';
     echo $str . '<br>';
 
-    
-    
-
-
 
 ?>
+<?php include("Footer.php") ?>
 </body>
 
 </html>

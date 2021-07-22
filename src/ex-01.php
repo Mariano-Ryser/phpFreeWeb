@@ -13,10 +13,15 @@
     $name = 'Peter';
     $str = 'Ich heisse ' . $name . '.';
 
-    echo "\$str = 'Ich heisse ' . \$name . '.'" . '<br>';
+    echo "\$str = 'Ich heisseeee ' . \$name . '.'" . '<br>';
     echo $str . '<br>';
+
     
-    ?>
+    
+
+
+
+?>
 </body>
 
 </html>

@@ -7,6 +7,10 @@
 </head>
 
 <body>
+
+
+<?php include("Head.php") ?>
+<br><br><br>
     <h1>Zeichenketten verbinden in php (String concatenation)</h1>
     <?php 
 

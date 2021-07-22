@@ -8,6 +8,9 @@
 </head>
 
 <body>
+<?php include("Head.php") ?>
+<br><br><br><br>
+
     <p>Aufgabe: Zähle alle Zahlen von 1 bis 100 zusammen und zeige das Resultat im Browser.</p>
     <p>Task: Add all numbers from 1 to 100 and show the result in the browser.</p>
     

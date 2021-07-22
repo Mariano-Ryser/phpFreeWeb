@@ -9,7 +9,8 @@
         <title>Document</title>
     </head>
     <body>
-
+    <?php include("Head.php") ?>
+    <br><br><br>
    
 
 <?php 

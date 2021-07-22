@@ -8,6 +8,8 @@
     <body>
 
       <img class="infoFoto" src="IMG/Informatic.png" alt="">
+      <img class="en" src="IMG/en.png" alt="">
+      
 
       <form action="ex-01.php">
       <button class="btn">Variables</button></form>

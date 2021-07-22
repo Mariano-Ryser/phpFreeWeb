@@ -8,6 +8,8 @@
         <title>Document</title>
     </head>
     <body>
+    <?php include("Head.php") ?>
+    <br><br><br>
         <h1>How to do basic calculations in php:</h1>
         <p>Addition, Subtraction, Multiplication and Division</p>
         <?php
@@ -51,7 +53,7 @@
 
 
 
-            
+
             include("Footer.php")
         ?>
     </body>

@@ -8,6 +8,8 @@
 </head>
 
 <body>
+<?php include("Head.php") ?>
+<br><br><br>
 <?php
 $title = "<h1>Arrays</h1>";
 

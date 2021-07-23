@@ -6,10 +6,9 @@ Ihre Auswirkungen sind willkommen, damit ich weiter erforschen und in das
 
 ///
 
-Creo que tengo que eliminar el docker-compose, el package.json,
- y npm-debug, actualmente no se para que se utilizan.
+comando para Regresar lo ya add ..del Working directory?
 
- lo veremos mas tarde.
+
 
  ///
 

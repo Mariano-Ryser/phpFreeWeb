@@ -12,7 +12,9 @@
     <br><br><br>
         <h1>How to do basic calculations in php:</h1>
         <p>Addition, Subtraction, Multiplication and Division</p>
+        
         <?php
+
             echo "a is 2 and b is 3<br>";
             $a = 2;
             $b = 3;

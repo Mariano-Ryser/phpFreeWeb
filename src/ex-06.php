@@ -23,6 +23,7 @@
 ?>
 
     <form action="accion.php" method="post">
+    
  <p>Name: <input type="text" name="nombre" /></p><br>
  
  <p>Vorname: <input type="text" name="nombre" /></p><br>
